@@ -1,0 +1,5 @@
+Following the new Coronavirus(COVID-19) outbreak, data scientists are looking for patterns and methods to speed up testing and diagnostics. This dataset consists of X-ray(PA-CXR) images of COVID-19,bacterial and viral pneumonia patients and Normal people. This dataset is uploaded with hopes that some pattern can be detected which could help Medical Professionals.
+
+=====================Dataset Link================================
+
+https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset
